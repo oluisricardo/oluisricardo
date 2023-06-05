@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Luis Ricardo👋
 
-- 🔭 Hoje trabalho com Front-End
-- 🌱 Estudando Javascript, HTML, CSS, React e React Native
+- 🔭 Hoje trabalho com Desenvolvimento Web
+- 🌱 Estudando Python, Javascript, HTML, CSS
 - 😄 Pronouns: ele/dele
 
 <div align="center">
