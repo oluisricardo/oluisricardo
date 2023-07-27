@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Luis Ricardo👋
 
 - 🔭 Hoje trabalho com Desenvolvimento Web
-- 🌱 Estudando Python, Javascript, HTML, CSS
+- 🌱 Estudando Python, Javascript, HTML, CSS, Figma...
 - 😄 Pronouns: ele/dele
 
 <div align="center">
