@@ -1,4 +1,4 @@
-`QA Engineer @Capgemini` . `Dev 2+ Years of Experience`
+`QA Engineer @Capgemini` . `2+ Years of Experience in technology`
 
 From Goiânia, I'm a QA Engineer, Developer, and postgraduate student in Software Engineering. I'm passionate about technology, electronic music, innovation, and everything that connects creativity with code.
 
