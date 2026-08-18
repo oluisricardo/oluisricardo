@@ -1,6 +1,6 @@
 `QA Engineer @Capgemini` . `2+ Years of Experience in technology`
 
-From Goiânia, I'm a QA Engineer, Developer, and postgraduate student in Software Engineering. I'm passionate about technology, electronic music, innovation, and everything that connects creativity with code.
+From Goiânia, I’m an **IT Professional with experience in QA Engineering, Systems Analysis, and Software Development**, currently pursuing a postgraduate degree in Software Engineering. I’m passionate about **technology, software quality, innovation, electronic music, and building solutions that connect creativity, code, and business.**
 
 Reach me at: luisricardo.tech@gmail.com
 
