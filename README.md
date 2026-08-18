@@ -5,7 +5,7 @@ From Goiânia, I'm a QA Engineer, Developer, and postgraduate student in Softwar
 Reach me at: luisricardo.tech@gmail.com
 
 ### Stacks
-[![My Skills](https://skillicons.dev/icons?i=java,python,angular,cypress,selenium,gherkin,bitbucket,nodejs,spring,postman,git,js,&theme=light&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,angular,cypress,selenium,nodejs,spring,postman,git,js,aws,docker,&theme=light&perline=6)](https://skillicons.dev)
 
 ### My Networks
 
